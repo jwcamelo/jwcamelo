@@ -4,7 +4,7 @@
 
 ##
 
-### I started my learning in programming in 2021/08. Since them, i am totally dedicated to learning web development, participating in bootcamps and courses and small projects.
+### I started my learning about programming and cloud computing in August,2021. Since them, i am totally dedicated to learning web development, participating in bootcamps, courses and small projects.
 ### Welcome to my profile.
 
 <div>
