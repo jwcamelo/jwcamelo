@@ -1,11 +1,11 @@
-##  👋 Hello! I’m Jhonatan Wesley Camêlo
-###  ✨ I'm available to work 
-###  🌱 I’m currently learning .NET, C#, Javascript, HTML, CSS...
+##  👋 Oi, meu nome é Jhonatan!
+###  ✨ Estou disponível para trabalhar.
+###  🌱 Atualmente estou aprendendo sobre .NET, C#, Javascript, HTML, CSS...
 
 ##
 
-### I started my learning about programming and cloud computing in August,2021. Since them, i am totally dedicated to learning web development, participating in bootcamps, courses and small projects.
-### Welcome to my profile.
+### Iniciei meus estudos na área de Desenvolvimento e Computação em Nuvem em Agosto/2021. Desde então, tenho me dedicado integralmente à busca por conhecimentos relacionados ao desenvolvimento de soluções através da tecnologia.
+### Bem-vindo ao meu perfil :)
 
 <div>
   <a https://www.linkedin.com/in/jwcamelo/">
