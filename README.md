@@ -1,6 +1,6 @@
 ##  👋 Oi, meu nome é Jhonatan!
 ###  ✨ Estou disponível para trabalhar.
-###  🌱 Atualmente estou aprendendo sobre .NET, C#, Javascript, HTML, CSS...
+###  🌱 Atualmente estou aprendendo sobre C#.NET, Javascript, HTML, CSS, Python e Java.
 
 ##
 
