@@ -1,11 +1,10 @@
 ##  👋 Oi, meu nome é Jhonatan!
 ###  ✨ Estou disponível para trabalhar.
-###  🌱 Atualmente estou aprendendo sobre C#.NET, Javascript, HTML, CSS, Python e Java.
+###  🌱 Atualmente estou aprendendo sobre Javascript, HTML, CSS, Angular, Python e Java.
 
 ##
 
-### Iniciei meus estudos na área de Desenvolvimento e Computação em Nuvem em Agosto/2021. Desde então, tenho me dedicado integralmente à busca por conhecimentos relacionados ao desenvolvimento de soluções através da tecnologia.
-### Bem-vindo ao meu perfil :)
+### Sou um estudante dedicado, sempre em busca do conhecimento e aprendizado contínuo. Como profissional, tenho facilidade do trabalho em equipe e me interesso por oportunidades inavodoras e desafiadoras. 
 
 <div>
   <a https://www.linkedin.com/in/jwcamelo/">
