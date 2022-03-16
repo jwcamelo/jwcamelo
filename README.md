@@ -2,9 +2,7 @@
 ###  ✨ Estou disponível para trabalhar.
 ###  🌱 Atualmente estou aprendendo sobre Javascript, HTML, CSS, Angular, Python e Java.
 
-##
 
-### Sou um estudante dedicado, sempre em busca do conhecimento e aprendizado contínuo. Como profissional, tenho facilidade do trabalho em equipe e me interesso por oportunidades inavodoras e desafiadoras. 
 
 <div>
   <a https://www.linkedin.com/in/jwcamelo/">
