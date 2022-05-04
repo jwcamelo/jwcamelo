@@ -1,5 +1,5 @@
 ##  👋 Oi, meu nome é Jhonatan!
-###  ✨ Estou disponível para trabalhar.
+
 ###  🌱 Atualmente estou aprendendo sobre Javascript, HTML, CSS, Angular, Python e Java.
 
 
