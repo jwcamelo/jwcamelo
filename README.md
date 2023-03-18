@@ -1,8 +1,3 @@
-##  👋 Oi, meu nome é Jhonatan!
-
-###  🌱 Atualmente estou aprendendo sobre Javascript, HTML, CSS, Angular, Python e Java.
-
-
 
 <div>
   <a https://www.linkedin.com/in/jwcamelo/">
